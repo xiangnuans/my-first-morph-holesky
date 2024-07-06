@@ -1,0 +1,19 @@
+node_modules
+.env
+
+# Hardhat files
+contract-deploy-demo/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# Foundry Files
+/contract-deployment-demos/foundry-demo/broadcast
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+.DS_Store
